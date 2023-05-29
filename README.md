@@ -32,4 +32,4 @@ Draggable:
 &nbsp;&nbsp;&nbsp;&nbsp;firstIndex: the index of dragged element at first time  
 &nbsp;&nbsp;&nbsp;&nbsp;currentIndex: the index of dropping position  
 &nbsp;&nbsp;&nbsp;&nbsp;terminate(): revoke listen functions of Draggable  
-其他可以看源码
+&nbsp;&nbsp;&nbsp;&nbsp;...
