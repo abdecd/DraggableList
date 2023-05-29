@@ -27,8 +27,9 @@ The callback triggered after drop. **default**: a function to drop listItem to c
 
 
 Draggable:  
-wrapper: the same as 'wrapper' argument in constructor  
-dragElem: the listItem be dragged  
-firstIndex: the index of dragged element at first time  
-currentIndex: the index of dropping position  
+  wrapper: the same as 'wrapper' argument in constructor  
+  dragElem: the listItem be dragged  
+  firstIndex: the index of dragged element at first time  
+  currentIndex: the index of dropping position  
+  terminate(): revoke listen functions of Draggable
 其他可以看源码
